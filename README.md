@@ -12,4 +12,4 @@ v) audio(https://medium.com/@shreyareddy.edulakanti/accelerating-audio-data-anal
 
 vi) video (action recognition)()
 
-vii) graph data set (pick any popular like citation etc.,.)()
+vii) graph data set (pick any popular like citation etc.,.)(https://medium.com/@shreyareddy.edulakanti/streamlining-graph-data-analysis-with-gpt-4s-ai-powered-code-interpreter-24835da460f8)
