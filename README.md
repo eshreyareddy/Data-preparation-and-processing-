@@ -10,6 +10,6 @@ iv) image (https://medium.com/@shreyareddy.edulakanti/leveraging-gpt-4-for-effic
 
 v) audio(https://medium.com/@shreyareddy.edulakanti/accelerating-audio-data-analysis-with-gpt-4-a-journey-through-machine-learning-1abe67240fed)
 
-vi) video (action recognition)()
+vi) video (action recognition)(https://medium.com/@shreyareddy.edulakanti/revolutionizing-data-science-harnessing-gpt-4-for-advanced-video-analysis-a23733077934)
 
 vii) graph data set (pick any popular like citation etc.,.)(https://medium.com/@shreyareddy.edulakanti/streamlining-graph-data-analysis-with-gpt-4s-ai-powered-code-interpreter-24835da460f8)
